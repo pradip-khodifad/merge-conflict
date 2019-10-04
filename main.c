@@ -1,5 +1,11 @@
 pseudo code
 {
+
+SecurityPatch()
+{
+  //Security fix
+}
+
 Initial Function()
 {
   //Sample Code
